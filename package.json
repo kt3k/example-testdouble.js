@@ -1,0 +1,29 @@
+{
+  "name": "testdouble-example",
+  "version": "1.0.0",
+  "description": "Example usage of testdouble.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kt3k/testdouble-example.git"
+  },
+  "keywords": [
+    "example",
+    "testdouble"
+  ],
+  "author": "Yoshiya Hinosawa <stibium121@gmail.com> (https://twitter.com/kt3k)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kt3k/testdouble-example/issues"
+  },
+  "homepage": "https://github.com/kt3k/testdouble-example#readme",
+  "devDependencies": {
+    "axios": "^0.15.2",
+    "mocha": "^3.1.2",
+    "sinon": "^1.17.6",
+    "testdouble": "^1.9.0"
+  }
+}
