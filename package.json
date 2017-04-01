@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/kt3k/testdouble-example#readme",
   "devDependencies": {
-    "axios": "^0.15.2",
+    "axios": "^0.16.0",
     "mocha": "^3.1.2",
     "sinon": "^2.0.0",
     "testdouble": "^2.0.1"
