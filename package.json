@@ -24,6 +24,6 @@
     "axios": "^0.16.0",
     "mocha": "^3.1.2",
     "sinon": "^2.0.0",
-    "testdouble": "^2.0.1"
+    "testdouble": "^3.0.0"
   }
 }
